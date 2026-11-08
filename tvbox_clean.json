@@ -1,0 +1,135 @@
+{
+  "wallpaper": "",
+  "sites": [
+    {
+      "key": "site01",
+      "name": "量子资源",
+      "type": 1,
+      "api": "https://cj.lziapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "site02",
+      "name": "猫眼资源",
+      "type": 1,
+      "api": "https://api.maoyanapi.top/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "site03",
+      "name": "暴风资源",
+      "type": 1,
+      "api": "https://bfzyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "site04",
+      "name": "电影天堂",
+      "type": 1,
+      "api": "https://caiji.dyttzyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "site05",
+      "name": "非凡资源",
+      "type": 1,
+      "api": "https://api.ffzyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "site06",
+      "name": "红牛资源",
+      "type": 1,
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "site07",
+      "name": "360资源",
+      "type": 1,
+      "api": "https://360zyzz.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "site08",
+      "name": "爱奇艺",
+      "type": 1,
+      "api": "https://iqiyizyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "site09",
+      "name": "豪华资源",
+      "type": 1,
+      "api": "https://hhzyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "changeable": 1
+    }
+  ],
+  "lives": [
+    {
+      "name": "央卫70台",
+      "type": 0,
+      "url": "https://iptv.cqshushu.com/ysws.php?type=m3u",
+      "epg": "http://epg.51zmt.top:8000/e.xml",
+      "logo": "",
+      "playerType": 1
+    },
+    {
+      "name": "IPTV-org中国",
+      "type": 0,
+      "url": "https://iptv-org.github.io/iptv/countries/cn.m3u",
+      "epg": "http://epg.51zmt.top:8000/e.xml",
+      "logo": "",
+      "playerType": 1
+    }
+  ],
+  "parses": [],
+  "flags": [],
+  "doh": [
+    {
+      "name": "腾讯DOH",
+      "url": "https://doh.pub/dns-query",
+      "ips": [
+        "1.12.12.12",
+        "120.53.53.53"
+      ]
+    },
+    {
+      "name": "阿里DOH",
+      "url": "https://dns.alidns.com/dns-query",
+      "ips": [
+        "223.5.5.5",
+        "223.6.6.6"
+      ]
+    }
+  ],
+  "rules": [],
+  "ads": []
+}
